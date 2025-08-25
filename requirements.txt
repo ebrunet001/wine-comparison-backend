@@ -1,10 +1,5 @@
-Flask==2.3.2
-flask-cors==4.0.0
-pandas==2.0.3
-numpy==1.24.3
-fuzzywuzzy==0.18.0
-python-Levenshtein==0.21.1
-gunicorn==21.2.0
-werkzeug==2.3.6
-setuptools==68.0.0
-wheel==0.41.0
+Flask
+flask-cors
+pandas
+fuzzywuzzy
+gunicorn
